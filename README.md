@@ -11,4 +11,5 @@ Recalcular os pontos quando vitória ou empate for adicionado.
 - Fazer a lógica de quando houver um empate, obrigatóriamente deveria já ajustar como empate para os demais jogadores
 - Validar se todos os pontos estão fazendo sentido, tanto o número de empates, quanto derrotas e vitórias com os demais jogadores (impossível haver mais vitórias que derrotas, por exemplo)
 - Utilizar seu jogo preferido para se basear na pontuação da sua tabela de classificação
+# Aliás AMO Futebol também!!!
 A Pen created on CodePen.io. Original URL: [https://codepen.io/Lay-Lauren/pen/VwWxBbx](https://codepen.io/Lay-Lauren/pen/VwWxBbx).
